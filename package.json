@@ -1,0 +1,23 @@
+{
+  "name": "docsify-plugin-copy-as-markdown-button",
+  "version": "1.0.0",
+  "description": "Docsify plugin that adds a copy-as-Markdown button to every heading section",
+  "main": "docsify-plugin-copy-as-markdown.js",
+  "keywords": ["docsify", "docsify-plugin", "markdown", "clipboard"],
+  "author": "Victor Rosset",
+  "license": "MIT",
+  "scripts": {
+    "build": "terser docsify-plugin-copy-as-markdown.js -o docsify-plugin-copy-as-markdown.min.js --compress --mangle"
+  },
+  "devDependencies": {
+    "terser": "^5.39.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tucho235/docsify-plugin-copy-as-markdown-button.git"
+  },
+  "homepage": "https://github.com/tucho235/docsify-plugin-copy-as-markdown-button#readme",
+  "bugs": {
+    "url": "https://github.com/tucho235/docsify-plugin-copy-as-markdown-button/issues"
+  }
+}
