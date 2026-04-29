@@ -26,7 +26,7 @@ Service DB requires **Node.js 18+**. For TypeScript projects, types are bundled 
 
 ## Configuration
 
-Create a `prism.config.js` at the root of your project:
+Create a `service-db.config.js` at the root of your project:
 
 ```js
 export default {

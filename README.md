@@ -2,6 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
+[![demo](https://img.shields.io/badge/demo-live-brightgreen)](https://tucho235.github.io/docsify-plugin-copy-as-markdown-button/)
 
 A [Docsify](https://docsify.js.org) plugin that adds a **Copy as Markdown** button to every heading. Clicking it copies that section's raw Markdown to the clipboard — ideal for pasting into AI chats, where Markdown is understood far better than plain text or HTML.
 
