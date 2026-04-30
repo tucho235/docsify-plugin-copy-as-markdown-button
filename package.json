@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "Docsify plugin that adds a copy-as-Markdown button to every heading section",
   "main": "docsify-plugin-copy-as-markdown.js",
+  "files": [
+    "docsify-plugin-copy-as-markdown.js",
+    "docsify-plugin-copy-as-markdown.min.js",
+    "LICENSE"
+  ],
   "keywords": ["docsify", "docsify-plugin", "markdown", "clipboard"],
   "author": "Victor Rosset",
   "license": "MIT",
