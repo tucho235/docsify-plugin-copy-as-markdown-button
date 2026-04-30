@@ -1,6 +1,6 @@
 # docsify-plugin-copy-as-markdown-button
 
-![version](https://img.shields.io/badge/version-1.0.0-blue)
+[![npm](https://img.shields.io/npm/v/docsify-plugin-copy-as-markdown-button)](https://www.npmjs.com/package/docsify-plugin-copy-as-markdown-button)
 ![license](https://img.shields.io/badge/license-MIT-green)
 [![demo](https://img.shields.io/badge/demo-live-brightgreen)](https://tucho235.github.io/docsify-plugin-copy-as-markdown-button/)
 
@@ -29,6 +29,18 @@ Add the script after the Docsify script tag in your `index.html`:
 
 <!-- unminified -->
 <script src="//cdn.jsdelivr.net/gh/tucho235/docsify-plugin-copy-as-markdown-button@1.0.0/docsify-plugin-copy-as-markdown.js"></script>
+```
+
+### Via npm
+
+```bash
+npm install docsify-plugin-copy-as-markdown-button
+```
+
+Then reference the file from `node_modules`:
+
+```html
+<script src="node_modules/docsify-plugin-copy-as-markdown-button/docsify-plugin-copy-as-markdown.min.js"></script>
 ```
 
 ### Manual
